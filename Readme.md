@@ -14,7 +14,7 @@
 \___ \| | | / __| __/ _ \ '_ ` _ \                            
  ___) | |_| \__ \ ||  __/ | | | | |                           
 |____/ \__, |___/\__\___|_| |_| |_|                           
-       |___/                                                                                                                                       |_____|                                              |_____|                           
+       |___/                                                                                                                                                                                                           
 ```
 
 A simple and efficient web-based Restaurant Management System designed to streamline restaurant operations such as ordering, billing, and table management.
